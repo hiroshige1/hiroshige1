@@ -12,7 +12,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 
 ---
 
-## 🛠️ スキルセット
+## スキルセット
 
 | カテゴリ | スキル |
 | :--- | :--- |
@@ -22,7 +22,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 
 ---
 
-## 💻 実務経験
+## 実務経験
 
 * **AIアプリ開発**: OpenAI APIを活用したWebアプリ、Android/iOSネイティブアプリのチーム開発（Next.js, React Native）。
 * **デスクトップアプリ開発**: C++とNinjaを用いた、Windows上で動作する産業流通系アプリケーションの開発。
@@ -30,7 +30,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 
 ---
 
-## 🌱 関心事・活動
+## 関心事・活動
 
 * **純粋数学**: 代数トポロジー、幾何学の学習に注力。
 * **点群データ解析**: **パーシステントホモロジー**を用いたデータ解析の勉強会を主催。
@@ -40,7 +40,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 
 ---
 
-## ⚙️ プロジェクトと実験
+## プロジェクトと実験
 * **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル(作成途中なのであまり精度はよくないです…)**(下記の実行には15分ほどかかります)
   <iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
 * **mod計算におけるglokking獲得の様子観察**
