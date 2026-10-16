@@ -2,10 +2,14 @@
 
 廣重 歩と申します。
 今現在、東京科学大学（旧 東京工業大学）理学院数学系に在籍しています。
+また、理研AIPにて深層学習理論チームでの研究を行っており、
+大学で幾何や代数など数学の勉強を行うとともに、得た知識で深層学習モデルの汎化解析の理論を研究しています。
+
+他にも、データサイエンスやMLにまつわる企業でインターンも行ってきました。実社会への応用にも興味があり、研究した理論がそれのみで終わらず実社会にどう生かせるのかを考えて日々活動しております。
 
 X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
-kaggle: https://www.kaggle.com/hiroshige1
-atcoder: https://atcoder.jp/users/shirohige1
+kaggle: https://www.kaggle.com/hiroshige1 (kaggle expert)
+atcoder: https://atcoder.jp/users/shirohige1 (緑)
 
 ---
 
@@ -29,7 +33,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 
 ## 関心事・活動
 
-* **純粋数学**: 代数トポロジー、幾何学の学習に注力。また関数解析的ダイナミクスの解析。
+* **純粋数学**: 代数トポロジー、幾何学、また関数解析的ダイナミクスの解析。
 * **点群データ解析**: **パーシステントホモロジー**を用いたデータ解析の勉強会を主催。
 * **最新論文の調査**: 拡散モデルや特徴量生成に関する論文の読み込み。深層学習の内部空間の汎化時における状態変移の調査。(Neural Tanjent Space)
 
