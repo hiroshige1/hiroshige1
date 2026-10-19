@@ -1,15 +1,14 @@
 # 廣重 歩 (Ayumu Hiroshige) - 学生エンジニア
 
 廣重 歩と申します。
-今現在、東京科学大学（旧 東京工業大学）理学院数学系に在籍しています。
-また、理研AIPにて深層学習理論チームでの研究を行っており、
-大学で幾何や代数など数学の勉強を行うとともに、得た知識で深層学習モデルの汎化解析の理論を研究しています。
+今現在、東京科学大学（旧 東京工業大学）理学院数学系に在籍し、純粋数学(幾何、代数)の学習をしています。  
+また、理化学研究所革新知能統合研究センター深層学習理論チームにて深層モデルの汎化現象の数理的解析を行っております。  
+  
+「理論から社会貢献へ」をモットーに、理論的研究が社会へどう役立てられるか、日々考えながら活動しています。
 
-他にも、データサイエンスやMLにまつわる企業でインターンも行ってきました。実社会への応用にも興味があり、研究した理論がそれのみで終わらず実社会にどう生かせるのかを考えて日々活動しております。
-
-X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
-kaggle: https://www.kaggle.com/hiroshige1 (kaggle expert)
-atcoder: https://atcoder.jp/users/shirohige1 (緑)
+X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)  
+kaggle: https://www.kaggle.com/hiroshige1 (kaggle expert)  
+atcoder: https://atcoder.jp/users/shirohige1 (緑)  
 
 ---
 
